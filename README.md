@@ -1,6 +1,16 @@
 # leetcode
 Where I will track my programming practice (leetcode, ICPC, etc.) to stay accountable. Follow my journey here!
 
+12/1 - 12/25 2023 Advent of Code
+Since... I don't have an actual advent calendar, I thought this would be a pretty good substitute!
+Each day, I will attempt to solve the problem at https://adventofcode.com/2023 (my username is lucywu12)
+I will say it might get questionable because of finals and life, but I will do my best
+
+12/1: Trebuchet
+- Puzzle 1
+This was super fun! I actually got it exactly right on the first try which has never happened for me before.
+Hopefully I can keep this up!
+- Puzzle 2
 
 
 11/16
