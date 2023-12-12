@@ -6,6 +6,15 @@ Since... I don't have an actual advent calendar, I thought this would be a prett
 Each day, I will attempt to solve the problem at https://adventofcode.com/2023 (my username is lucywu12)
 I will say it might get questionable because of finals and life, but I will do my best
 
+12/12: Fertilizer
+- Puzzle 1
+I was really inspired to take this one on!
+What i liked that i did was not iterate over all the numbers...but just my seeds!
+However, I ran into a lot of issues figuring out how to read in the file (stringstream is very underrated)
+Major logic issue was applying the transformations after each line
+Fixed that by assigning to a temp array
+and then copying back to my seed array to avoid overwriting and confusing the transformation
+
 12/1: Trebuchet
 - Puzzle 1
 This was super fun! I actually got it exactly right on the first try which has never happened for me before.
